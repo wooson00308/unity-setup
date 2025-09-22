@@ -6,4 +6,3 @@
 ## other setup
 - nuget: https://github.com/GlitchEnzo/NuGetForUnity
 - unitask: https://github.com/Cysharp/UniTask
-- 
