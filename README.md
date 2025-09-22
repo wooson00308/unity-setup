@@ -1,4 +1,5 @@
 # unity-setup
+- blarblarblarblarblarblarblarblar
 
 ## packagemanager git setup
 - cursor ai: https://github.com/boxqkrtm/com.unity.ide.cursor.git
